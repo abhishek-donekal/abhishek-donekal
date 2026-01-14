@@ -62,35 +62,88 @@
 
 ---
 
-## 🎯 Featured Projects
+## 🤖 Machine Learning Projects
 
-### 🏠 Miami Housing Price Prediction
-**Machine Learning | Predictive Analysis**
+<div align="center">
+  
+  ### A collection of my ML/AI projects showcasing various techniques and applications
+  
+</div>
 
-- Built multiple ML models (Linear Regression, Random Forest, XGBoost, LightGBM)
-- Achieved **91.89% R² score** with Linear Regression
-- Comprehensive model comparison and evaluation
-- [View Repository](https://github.com/abhishek-donekal/miami-housing-ml-analysis)
+---
 
-### 📊 FreeCodeCamp Pandas Real-Life Example
-**Data Analysis | Pandas**
+### 🏠 [Miami Housing Price Prediction](https://github.com/abhishek-donekal/miami-housing-ml-analysis)
+**🔹 Regression | Predictive Analytics | Model Comparison**
 
-- Practical data analysis using Pandas
-- Real-world dataset processing
-- [View Repository](https://github.com/abhishek-donekal/FreeCodeCamp-Pandas-Real-Life-Example)
+- **Models:** Linear Regression, Random Forest, XGBoost, LightGBM, Gradient Boosting, SVR, Neural Networks
+- **Performance:** Achieved **91.89% R² score** with Linear Regression
+- **Features:** 
+  - Multiple ML model implementation and comparison
+  - Comprehensive evaluation metrics (R², MAE, RMSE, MAPE)
+  - Feature importance analysis
+  - Data preprocessing and visualization
+- **Tech Stack:** Python, Scikit-learn, XGBoost, LightGBM, Pandas, Matplotlib, Seaborn
+- **Status:** ✅ Complete
 
-### 🤖 AutoML Capstone Project
-**AutoML | Deep Learning | Medical Imaging**
+---
 
-- Using AutoML to Improve PathCNN for Glioblastoma
-- Advanced machine learning techniques
-- [View Repository](https://github.com/abhishek-donekal/AutoML_Capstone_Project)
+### 🤖 [AutoML Capstone Project](https://github.com/abhishek-donekal/AutoML_Capstone_Project)
+**🔹 AutoML | Deep Learning | Medical Imaging | Computer Vision**
 
-### 🎙️ Lotus AI Podcast
-**AI | Podcast | Python**
+- **Focus:** Using AutoML to Improve PathCNN for Glioblastoma
+- **Domain:** Medical imaging and pathology
+- **Techniques:** Automated Machine Learning, Convolutional Neural Networks
+- **Tech Stack:** Python, AutoML frameworks, Deep Learning
+- **Status:** 🔄 In Progress / Complete
 
-- AI-powered podcast project
-- [View Repository](https://github.com/abhishek-donekal/Lotus_AI_Podcast)
+---
+
+### 🎙️ [Lotus AI Podcast](https://github.com/abhishek-donekal/Lotus_AI_Podcast)
+**🔹 AI | Natural Language Processing | Audio Processing**
+
+- **Focus:** AI-powered podcast generation and processing
+- **Techniques:** NLP, Audio AI, Content Generation
+- **Tech Stack:** Python, AI/ML frameworks
+- **Status:** 🔄 Active
+
+---
+
+### 📊 [FreeCodeCamp Pandas Real-Life Example](https://github.com/abhishek-donekal/FreeCodeCamp-Pandas-Real-Life-Example)
+**🔹 Data Analysis | Data Processing | EDA**
+
+- **Focus:** Practical data analysis using Pandas
+- **Features:** Real-world dataset processing and analysis
+- **Tech Stack:** Python, Pandas, Jupyter Notebooks
+- **Status:** ✅ Complete
+
+---
+
+### 📈 Other ML/Data Projects
+
+<div align="center">
+  
+  | Project | Type | Status | Link |
+  |---------|------|--------|------|
+  | walmart_sales | Data Analysis | 🔄 | [View](https://github.com/abhishek-donekal/walmart_sales) |
+  | End-to-End | ML Pipeline | 🔄 | [View](https://github.com/abhishek-donekal/End-to-End) |
+  | recruiter_chatbot | AI Chatbot | 🔄 | [View](https://github.com/abhishek-donekal/recruiter_chatbot) |
+  
+</div>
+
+---
+
+## 🎯 Project Highlights
+
+<div align="center">
+  
+  | Metric | Value |
+  |--------|-------|
+  | **Total ML Projects** | 7+ |
+  | **Best Model Performance** | 91.89% R² Score |
+  | **Techniques Used** | Regression, Classification, Deep Learning, AutoML, NLP |
+  | **Languages** | Python |
+  
+</div>
 
 ---
 
