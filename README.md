@@ -135,6 +135,12 @@
   
   <p>Your support helps me create more open-source projects and tutorials! 🚀</p>
   
+  ### 💵 CashApp QR Code
+  
+  <img src="cashapp-qr.png" alt="CashApp QR Code" width="200" height="200">
+  
+  <p><em>Scan to send support via CashApp</em></p>
+  
 </div>
 
 ---
