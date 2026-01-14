@@ -62,86 +62,144 @@
 
 ---
 
-## 🤖 Machine Learning Projects
+## 💻 Projects by Technology
 
 <div align="center">
   
-  ### A collection of my ML/AI projects showcasing various techniques and applications
+  ### Organized by tech stack and domain expertise
   
 </div>
 
 ---
 
-### 🏠 [Miami Housing Price Prediction](https://github.com/abhishek-donekal/miami-housing-ml-analysis)
-**🔹 Regression | Predictive Analytics | Model Comparison**
+## 🤖 Machine Learning & AI
 
-- **Models:** Linear Regression, Random Forest, XGBoost, LightGBM, Gradient Boosting, SVR, Neural Networks
-- **Performance:** Achieved **91.89% R² score** with Linear Regression
-- **Features:** 
-  - Multiple ML model implementation and comparison
-  - Comprehensive evaluation metrics (R², MAE, RMSE, MAPE)
-  - Feature importance analysis
-  - Data preprocessing and visualization
-- **Tech Stack:** Python, Scikit-learn, XGBoost, LightGBM, Pandas, Matplotlib, Seaborn
-- **Status:** ✅ Complete
+### Supervised Learning
 
----
+#### 🏠 [Miami Housing Price Prediction](https://github.com/abhishek-donekal/miami-housing-ml-analysis)
+**Regression | Predictive Analytics | Model Comparison**
 
-### 🤖 [AutoML Capstone Project](https://github.com/abhishek-donekal/AutoML_Capstone_Project)
-**🔹 AutoML | Deep Learning | Medical Imaging | Computer Vision**
+```
+Tech Stack: Python | Scikit-learn | XGBoost | LightGBM | Pandas | Matplotlib
+Models: Linear Regression, Random Forest, XGBoost, LightGBM, Gradient Boosting, SVR, Neural Networks
+Performance: 91.89% R² Score
+Status: ✅ Complete
+```
 
-- **Focus:** Using AutoML to Improve PathCNN for Glioblastoma
-- **Domain:** Medical imaging and pathology
-- **Techniques:** Automated Machine Learning, Convolutional Neural Networks
-- **Tech Stack:** Python, AutoML frameworks, Deep Learning
-- **Status:** 🔄 In Progress / Complete
+**Key Features:**
+- Multiple ML model implementation and comparison
+- Comprehensive evaluation metrics (R², MAE, RMSE, MAPE)
+- Feature importance analysis
+- Data preprocessing and visualization
 
 ---
 
-### 🎙️ [Lotus AI Podcast](https://github.com/abhishek-donekal/Lotus_AI_Podcast)
-**🔹 AI | Natural Language Processing | Audio Processing**
+### Deep Learning & Computer Vision
 
-- **Focus:** AI-powered podcast generation and processing
-- **Techniques:** NLP, Audio AI, Content Generation
-- **Tech Stack:** Python, AI/ML frameworks
-- **Status:** 🔄 Active
+#### 🤖 [AutoML Capstone Project](https://github.com/abhishek-donekal/AutoML_Capstone_Project)
+**AutoML | Deep Learning | Medical Imaging | CNN**
 
----
-
-### 📊 [FreeCodeCamp Pandas Real-Life Example](https://github.com/abhishek-donekal/FreeCodeCamp-Pandas-Real-Life-Example)
-**🔹 Data Analysis | Data Processing | EDA**
-
-- **Focus:** Practical data analysis using Pandas
-- **Features:** Real-world dataset processing and analysis
-- **Tech Stack:** Python, Pandas, Jupyter Notebooks
-- **Status:** ✅ Complete
+```
+Tech Stack: Python | AutoML | TensorFlow/PyTorch | Computer Vision
+Domain: Medical Imaging & Pathology
+Focus: Improving PathCNN for Glioblastoma Detection
+Status: ✅ Complete
+```
 
 ---
 
-### 📈 Other ML/Data Projects
+### Natural Language Processing & AI
+
+#### 🎙️ [Lotus AI Podcast](https://github.com/abhishek-donekal/Lotus_AI_Podcast)
+**NLP | Audio Processing | AI Content Generation**
+
+```
+Tech Stack: Python | NLP Libraries | Audio Processing | AI/ML
+Focus: AI-powered podcast generation and processing
+Status: 🔄 Active
+```
+
+#### 🤖 [Recruiter Chatbot](https://github.com/abhishek-donekal/recruiter_chatbot)
+**NLP | Chatbot | Conversational AI**
+
+```
+Tech Stack: Python | NLP | Chatbot Framework
+Focus: AI-powered recruitment assistant
+Status: 🔄 Active
+```
+
+---
+
+## 📊 Data Science & Analytics
+
+### Data Analysis & Processing
+
+#### 📊 [FreeCodeCamp Pandas Real-Life Example](https://github.com/abhishek-donekal/FreeCodeCamp-Pandas-Real-Life-Example)
+**Data Analysis | EDA | Data Processing**
+
+```
+Tech Stack: Python | Pandas | NumPy | Jupyter Notebooks
+Focus: Practical data analysis and real-world dataset processing
+Status: ✅ Complete
+```
+
+#### 📈 [Walmart Sales Analysis](https://github.com/abhishek-donekal/walmart_sales)
+**Data Analysis | Time Series | Business Intelligence**
+
+```
+Tech Stack: Python | Pandas | Data Visualization
+Focus: Sales data analysis and insights
+Status: 🔄 Active
+```
+
+---
+
+## 🔧 ML Pipelines & DevOps
+
+### End-to-End ML Systems
+
+#### 🚀 [End-to-End ML Pipeline](https://github.com/abhishek-donekal/End-to-End)
+**MLOps | CI/CD | Model Deployment**
+
+```
+Tech Stack: Python | ML Pipeline Tools | DevOps
+Focus: Complete ML workflow from data to deployment
+Status: 🔄 Active
+```
+
+---
+
+## 📈 Project Statistics
 
 <div align="center">
   
-  | Project | Type | Status | Link |
-  |---------|------|--------|------|
-  | walmart_sales | Data Analysis | 🔄 | [View](https://github.com/abhishek-donekal/walmart_sales) |
-  | End-to-End | ML Pipeline | 🔄 | [View](https://github.com/abhishek-donekal/End-to-End) |
-  | recruiter_chatbot | AI Chatbot | 🔄 | [View](https://github.com/abhishek-donekal/recruiter_chatbot) |
+  | Category | Projects | Status |
+  |----------|----------|--------|
+  | **Machine Learning** | 3 | ✅ Active |
+  | **Deep Learning** | 1 | ✅ Complete |
+  | **NLP & AI** | 2 | 🔄 Active |
+  | **Data Science** | 2 | ✅ Complete |
+  | **MLOps** | 1 | 🔄 Active |
+  | **Total** | **9+** | - |
   
 </div>
 
 ---
 
-## 🎯 Project Highlights
+## 🎯 Technology Expertise
 
 <div align="center">
   
-  | Metric | Value |
-  |--------|-------|
-  | **Total ML Projects** | 7+ |
-  | **Best Model Performance** | 91.89% R² Score |
-  | **Techniques Used** | Regression, Classification, Deep Learning, AutoML, NLP |
-  | **Languages** | Python |
+  ### Primary Technologies
+  
+  | Domain | Technologies |
+  |--------|-------------|
+  | **ML Frameworks** | Scikit-learn, XGBoost, LightGBM, TensorFlow |
+  | **Data Processing** | Pandas, NumPy, Data Cleaning, EDA |
+  | **Visualization** | Matplotlib, Seaborn, Plotly |
+  | **NLP** | Natural Language Processing, Text Analysis |
+  | **Deep Learning** | CNNs, AutoML, Computer Vision |
+  | **Languages** | Python (Primary) |
   
 </div>
 
