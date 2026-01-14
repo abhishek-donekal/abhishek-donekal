@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ### Data Scientist | ML Engineer | Python Developer
+  ### Full-Stack Developer | AI/ML Engineer | DevOps Specialist | Data Scientist
   
   [![GitHub followers](https://img.shields.io/github/followers/abhishek-donekal?style=social)](https://github.com/abhishek-donekal)
   [![GitHub stars](https://img.shields.io/github/stars/abhishek-donekal?style=social)](https://github.com/abhishek-donekal)
