@@ -43,22 +43,105 @@
 
 ---
 
-## 🎯 Featured Projects
+## 📚 All Projects Summary
 
-### 🏠 [Miami Housing Price Prediction](https://github.com/abhishek-donekal/miami-housing-ml-analysis)
-**ML Regression | 91.89% R² Score**
+<div align="center">
+  
+  ### 24 repositories organized by technology and domain
+  
+</div>
 
-Multiple ML models comparison with comprehensive evaluation
+---
 
-### 🤖 [AutoML Capstone Project](https://github.com/abhishek-donekal/AutoML_Capstone_Project)
-**Deep Learning | Medical Imaging**
+## 🤖 Machine Learning & AI (8 Projects)
 
-AutoML to Improve PathCNN for Glioblastoma
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Miami Housing Price Prediction](https://github.com/abhishek-donekal/miami-housing-ml-analysis) | ML regression with 91.89% R² score | Python, Scikit-learn, XGBoost, LightGBM |
+| [AutoML Capstone Project](https://github.com/abhishek-donekal/AutoML_Capstone_Project) | AutoML for PathCNN - Glioblastoma detection | Python, AutoML, Deep Learning |
+| [Lotus AI Podcast](https://github.com/abhishek-donekal/Lotus_AI_Podcast) | AI-powered podcast generation | Python, NLP, Audio AI |
+| [Recruiter Chatbot](https://github.com/abhishek-donekal/recruiter_chatbot) | AI recruitment assistant chatbot | Python, NLP, Chatbot |
+| [PDF Chatbot](https://github.com/abhishek-donekal/pdf_chatbot) | AI chatbot for PDF documents | Python, NLP, RAG |
+| [AWS Streamlit PY](https://github.com/abhishek-donekal/AWS_STREAMLIT_PY) | ML app with Streamlit on AWS | Python, Streamlit, AWS |
+| [Azure AI Vision](https://github.com/abhishek-donekal/mslearn-ai-vision) | Lab files for Azure AI Vision modules | Python, Azure AI, Computer Vision |
+| [Azure AI Services](https://github.com/abhishek-donekal/mslearn-ai-services) | Lab files for Azure AI Services | Python, Azure AI Services |
 
-### 🎙️ [Lotus AI Podcast](https://github.com/abhishek-donekal/Lotus_AI_Podcast)
-**NLP | AI Content Generation**
+---
 
-AI-powered podcast generation and processing
+## 📊 Data Science & Analytics (3 Projects)
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [FreeCodeCamp Pandas](https://github.com/abhishek-donekal/FreeCodeCamp-Pandas-Real-Life-Example) | Practical data analysis with Pandas | Python, Pandas, NumPy |
+| [Walmart Sales Analysis](https://github.com/abhishek-donekal/walmart_sales) | Sales data analysis and insights | Python, Pandas, Visualization |
+| [China Database Tool](https://github.com/abhishek-donekal/China_database_tool) | Database tool for China data | Python, Database |
+
+---
+
+## 🌐 Web Development & Applications (1 Project)
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [App Test GitHub Action](https://github.com/abhishek-donekal/apptestgithubaction) | Web app with GitHub Actions | Web, GitHub Actions |
+
+---
+
+## 🔧 DevOps & Infrastructure (2 Projects)
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [QLX Automation Deploy](https://github.com/abhishek-donekal/qlx-automation-deploy) | ECS deployment automation CI/CD | GitHub Actions, AWS, Docker, ECS |
+| [Resume Automation](https://github.com/abhishek-donekal/resume-automation) | Automated resume processing | Automation, CI/CD |
+
+---
+
+## 🔄 Automation & Tools (2 Projects)
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [LinkedIn Posts Automation](https://github.com/abhishek-donekal/linkdin-posts-automation) | Automated LinkedIn posting | Automation, Social Media |
+| [AWS Terraform](https://github.com/abhishek-donekal/aws_terrafrom) | Infrastructure as Code with Terraform | Terraform, AWS |
+
+---
+
+## 📰 Content & News (2 Projects)
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [China Newsfeed SRC](https://github.com/abhishek-donekal/China_newsfeed_SRC) | China newsfeed source | News, Content |
+| [Chinese News](https://github.com/abhishek-donekal/Chineese_news) | Chinese news aggregation | News, Content |
+
+---
+
+## 🎯 Other Projects (6 Projects)
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [End-to-End](https://github.com/abhishek-donekal/End-to-End) | Complete ML pipeline workflow | Python, MLOps |
+| [RAG](https://github.com/abhishek-donekal/Rag) | Retrieval Augmented Generation | Python, RAG, LLM |
+| [Betting Sample](https://github.com/abhishek-donekal/betting-sample) | Betting app sample | App Development |
+| [Venovate](https://github.com/abhishek-donekal/venovate) | Venovate project | Various |
+| [QLX](https://github.com/abhishek-donekal/qlx) | QLX project | Various |
+| [Test Action User](https://github.com/abhishek-donekal/test-action-user) | GitHub Actions testing | GitHub Actions |
+
+---
+
+## 📈 Project Statistics
+
+<div align="center">
+  
+  | Category | Count |
+  |----------|-------|
+  | **🤖 ML/AI Projects** | **8** |
+  | **📊 Data Science** | **3** |
+  | **🌐 Web Development** | **1** |
+  | **🔧 DevOps/Infrastructure** | **2** |
+  | **🔄 Automation & Tools** | **2** |
+  | **📰 Content & News** | **2** |
+  | **🎯 Other Projects** | **6** |
+  | **📦 Total Repositories** | **24** |
+  
+</div>
 
 ---
 
