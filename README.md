@@ -124,6 +124,21 @@
 
 ---
 
+## ☕ Support My Work
+
+<div align="center">
+  
+  ### If you find my projects helpful, consider supporting me!
+  
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/abhishekdonekal)
+  [![CashApp](https://img.shields.io/badge/CashApp-00D632?style=for-the-badge&logo=cash-app&logoColor=white)](https://cash.app/$YOUR_CASHAPP_TAG)
+  
+  <p>Your support helps me create more open-source projects and tutorials! 🚀</p>
+  
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
