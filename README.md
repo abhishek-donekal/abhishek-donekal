@@ -98,8 +98,8 @@
 
 ---
 
-## 🌐 Web Development (1)
-[App Test GitHub Action](https://github.com/abhishek-donekal/apptestgithubaction)
+## 🌐 Web Development (4)
+[App Test GitHub Action](https://github.com/abhishek-donekal/apptestgithubaction) • [Betting Sample](https://github.com/abhishek-donekal/betting-sample) • [Venovate](https://github.com/abhishek-donekal/venovate) • [QLX](https://github.com/abhishek-donekal/qlx)
 
 ---
 
@@ -118,8 +118,8 @@
 
 ---
 
-## 🎯 Other Projects (6)
-[End-to-End](https://github.com/abhishek-donekal/End-to-End) • [RAG](https://github.com/abhishek-donekal/Rag) • [Betting Sample](https://github.com/abhishek-donekal/betting-sample) • [Venovate](https://github.com/abhishek-donekal/venovate) • [QLX](https://github.com/abhishek-donekal/qlx) • [Test Action User](https://github.com/abhishek-donekal/test-action-user)
+## 🎯 Other Projects (3)
+[End-to-End](https://github.com/abhishek-donekal/End-to-End) • [RAG](https://github.com/abhishek-donekal/Rag) • [Test Action User](https://github.com/abhishek-donekal/test-action-user)
 
 ---
 
